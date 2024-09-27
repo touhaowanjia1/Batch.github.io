@@ -21175,7 +21175,7 @@ function bl(t) {
 function u4(t) {
   return Pl(t, 18)
 }
-var c4 = "./assets/ethereum.066b2a60.svg"
+var c4 = "assets/ethereum.066b2a60.svg"
 , Ac = {
   exports: {}
 }
