@@ -1,1 +1,1 @@
-[batch.money](http://touhaowanjia.free.hr)
+http://touhaowanjia.free.hr
